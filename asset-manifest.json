@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-blog/static/css/main.963adbb0.chunk.css",
-    "main.js": "/simple-blog/static/js/main.4593768e.chunk.js",
-    "main.js.map": "/simple-blog/static/js/main.4593768e.chunk.js.map",
+    "main.js": "/simple-blog/static/js/main.e39536cd.chunk.js",
+    "main.js.map": "/simple-blog/static/js/main.e39536cd.chunk.js.map",
     "runtime-main.js": "/simple-blog/static/js/runtime-main.d5f488c5.js",
     "runtime-main.js.map": "/simple-blog/static/js/runtime-main.d5f488c5.js.map",
     "static/js/2.54836588.chunk.js": "/simple-blog/static/js/2.54836588.chunk.js",
     "static/js/2.54836588.chunk.js.map": "/simple-blog/static/js/2.54836588.chunk.js.map",
     "index.html": "/simple-blog/index.html",
-    "precache-manifest.554ce6bac3e924aff1ca9b658e9e281c.js": "/simple-blog/precache-manifest.554ce6bac3e924aff1ca9b658e9e281c.js",
+    "precache-manifest.f5a48c0b4956078e5d33a386ef00a378.js": "/simple-blog/precache-manifest.f5a48c0b4956078e5d33a386ef00a378.js",
     "service-worker.js": "/simple-blog/service-worker.js",
     "static/css/main.963adbb0.chunk.css.map": "/simple-blog/static/css/main.963adbb0.chunk.css.map",
     "static/js/2.54836588.chunk.js.LICENSE.txt": "/simple-blog/static/js/2.54836588.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d5f488c5.js",
     "static/js/2.54836588.chunk.js",
     "static/css/main.963adbb0.chunk.css",
-    "static/js/main.4593768e.chunk.js"
+    "static/js/main.e39536cd.chunk.js"
   ]
 }
